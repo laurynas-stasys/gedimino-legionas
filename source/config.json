@@ -1,0 +1,16 @@
+{
+  "api_urls": {
+    "personel": "https://services1.arcgis.com/usA3lHW20rGU6glp/arcgis/rest/services/VMS_gydymo_istaigu_personalo_resursai/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*",
+    "inventory": "https://services1.arcgis.com/usA3lHW20rGU6glp/arcgis/rest/services/VMS_Gydymo_istaigu_priemones_likuciai/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*"
+  },
+  "db_info": {
+    "db_host": "raw-data.caely2br3cmd.eu-central-1.rds.amazonaws.com",
+    "username": "laurynas",
+    "password": "password",
+    "db": "raw_data"
+  },
+  "aggregate_queries": {
+    "personel": "select timestamp,\n       hospital,\n       min(medics_total) as medics_total,\n       max(quarantined_total) as quarantined_total,\n       min(medics_30_50) as medics_30_50,\n       max(quarantined_30_50) as quarantined_30_50,\n       min(medics_over_50) as medics_over_50,\n       max(quarantined_over_50) as quarantined_over_50,\n       min(reanimatologists_total) as reanimatologists_total,\n       min(quarantined_reanimatologists_total) as quarantined_reanimatologists_total,\n       min(medic_supplies) as medic_supplies,\n       min(trained_medics) as trained_medics\nfrom (\nselect date_trunc('hour', to_timestamp(insert_timestamp, 'YYYY-MM-DD HH24')) as timestamp,\n       \"Įstaigos_pavadinimas\" hospital,\n       \"Medikų_kiekis__VISO\" medics_total,\n       \"Karantinuota__VISO\" quarantined_total,\n       \"Medikų_kiekis_30___50_m_\" medics_30_50,\n       \"Karantinuota_viso_30___50_m_\" quarantined_30_50,\n       \"Medikų_kiekis_50__\" medics_over_50,\n       \"Karantinuota_viso_50__\" quarantined_over_50,\n       \"Medikai_reanimatologai__VISO\" reanimatologists_total,\n       \"Karantinuota_reanimatologai__VISO\" quarantined_reanimatologists_total,\n       \"Atsarga\" medic_supplies,\n       \"Apmokyti_medikai\" trained_medics\nfrom personel) as d\ngroup by hospital, timestamp\norder by hospital, timestamp",
+    "inventory": "select timestamp,\n       hospital,\n       min(ffp2) as ffp2,\n       min(ffp3) as ffp3,\n       min(masks) as masks,\n       min(face_shields) as face_shields,\n       min(caps) as caps,\n       min(glasses) as glasses,\n       min(overals) as overals,\n       min(robes) as robes,\n       min(shoes) as shoes,\n       min(reagents) as reagents,\n       min(reagents_other) as reagents_other\nfrom (\nselect date_trunc('hour', to_timestamp(insert_timestamp, 'YYYY-MM-DD HH24')) as timestamp,\n       \"Įstaigos_pavadinimas__pasirinkti_iš_sąrašo_\" hospital,\n       \"Respiratorius_FFP2__vnt_\" as ffp2,\n       \"Respiratorius_FFP3__vnt_\" as ffp3,\n       \"Veido_kaukės__vienkartinės___vnt_\" as masks,\n       \"Veido_skydai__vnt_\" face_shields,\n       \"_Vienkartinės_kepuraitės__vnt_\" caps,\n       \"_Apsauginiai_akiniai__vnt_\" glasses,\n       \"Vienkartiniai_kombinezonai\" overals,\n       \"Vienkartiniai_medicininiai_chalatai\" robes,\n       \"Antbačiai\" shoes,\n       \"Reagentai__vnt_\" reagents,\n       \"Kitos_rūšies_reagentai__vnt_\" reagents_other\nfrom inventory) as d\ngroup by hospital, timestamp\norder by hospital, timestamp"
+  }
+}
