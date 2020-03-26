@@ -1,7 +1,8 @@
 {
   "api_urls": {
     "personel": "https://services1.arcgis.com/usA3lHW20rGU6glp/arcgis/rest/services/VMS_gydymo_istaigu_personalo_resursai/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*",
-    "inventory": "https://services1.arcgis.com/usA3lHW20rGU6glp/arcgis/rest/services/VMS_Gydymo_istaigu_priemones_likuciai/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*"
+    "inventory": "https://services1.arcgis.com/usA3lHW20rGU6glp/arcgis/rest/services/VMS_Gydymo_istaigu_priemones_likuciai/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*",
+    "mobile_stations": "https://services1.arcgis.com/usA3lHW20rGU6glp/arcgis/rest/services/Mobilus_patikros_punktai_(view)/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*"
   },
   "db_info": {
     "db_host": "raw-data.caely2br3cmd.eu-central-1.rds.amazonaws.com",
