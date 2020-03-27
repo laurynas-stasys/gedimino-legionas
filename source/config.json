@@ -3,7 +3,8 @@
     "personel": "https://services1.arcgis.com/usA3lHW20rGU6glp/arcgis/rest/services/VMS_gydymo_istaigu_personalo_resursai/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*",
     "inventory": "https://services1.arcgis.com/usA3lHW20rGU6glp/arcgis/rest/services/VMS_Gydymo_istaigu_priemones_likuciai/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*",
     "mobile_stations": "https://services1.arcgis.com/usA3lHW20rGU6glp/arcgis/rest/services/Mobilus_patikros_punktai_(view)/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*",
-    "case_stats": "https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/Coronavirus_2019_nCoV_Cases/FeatureServer/2/query?f=json&where=Country_Region%20%3D%20%27Lithuania%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*"
+    "case_stats": "https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/Coronavirus_2019_nCoV_Cases/FeatureServer/2/query?f=json&where=Country_Region%20%3D%20%27Lithuania%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*",
+    "beds": "https://services1.arcgis.com/usA3lHW20rGU6glp/arcgis/rest/services/VMS_ISTAIGU_RESURSAI/FeatureServer/0/query?f=json&where=%C4%AEvedami_inventoriaus_resursai_yra__buvo__aktual%C5%ABs_%C5%A1iai_datai_%3C%3D%272020-03-27%2011%3A54%3A04%27%20AND%20%C4%AEvedami_inventoriaus_resursai_yra__buvo__aktual%C5%ABs_%C5%A1iai_datai_%3E%3D%272020-03-25%2022%3A00%3A00%27%20AND%20Steig%C4%97jas%3D%27Sav%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*"
   },
   "db_info": {
     "db_host": "raw-data.caely2br3cmd.eu-central-1.rds.amazonaws.com",

@@ -22,7 +22,7 @@ def scrape_data(api_url, entity, db_host, username, password, db_id):
 
     current_time = datetime.now().__str__()
 
-    df = pd.DataFrame.from_dict([_['attributes'] for _ in data['features']]).dropna(axis=1)
+    df = pd.DataFrame.from_dict([_['attributes'] for _ in data['features']]).dropna(axis=1, how='all')
 
     df.columns = [_.lower().replace('_', '') for _ in df.columns]
 
