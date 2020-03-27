@@ -23,6 +23,9 @@ def scrape_data(api_url, entity, db_host, username, password, db_id):
     current_time = datetime.now().__str__()
 
     df = pd.DataFrame.from_dict([_['attributes'] for _ in data['features']]).dropna(axis=1)
+
+    df.columns = [_.lower().replace('_', '') for _ in df.columns]
+
     df['insert_timestamp'] = current_time
 
     conn_string = 'postgresql+psycopg2://{}:{}@{}:5432/{}'.format(username, password, db_host, db_id)

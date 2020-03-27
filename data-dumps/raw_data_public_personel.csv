@@ -1,0 +1,1530 @@
+index,Įstaigos_pavadinimas,Medikų_kiekis__VISO,Karantinuota__VISO,Medikų_kiekis_30___50_m_,Karantinuota_viso_30___50_m_,Medikų_kiekis_50__,Karantinuota_viso_50__,Medikai_reanimatologai__VISO,Karantinuota_reanimatologai__VISO,Atsarga,Apmokyti_medikai,FID,insert_timestamp
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-21 21:22:42.991238
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-21 21:22:42.991238
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-21 21:22:42.991238
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-21 21:22:42.991238
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-21 21:22:42.991238
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-21 21:22:42.991238
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-21 21:22:42.991238
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-21 21:22:42.991238
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-21 21:22:42.991238
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-21 21:22:42.991238
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-21 21:22:42.991238
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-21 21:22:42.991238
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-21 21:22:42.991238
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-21 21:22:42.991238
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-21 21:22:42.991238
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-21 21:22:42.991238
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-21 21:22:42.991238
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-21 21:22:42.991238
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 09:58:59.077560
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 09:58:59.077560
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 09:58:59.077560
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 09:58:59.077560
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 09:58:59.077560
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 09:58:59.077560
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 09:58:59.077560
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 09:58:59.077560
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 09:58:59.077560
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 09:58:59.077560
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 09:58:59.077560
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 09:58:59.077560
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 09:58:59.077560
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 09:58:59.077560
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 09:58:59.077560
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 09:58:59.077560
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 09:58:59.077560
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 09:58:59.077560
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 08:00:16.645805
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 08:00:16.645805
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 08:00:16.645805
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 08:00:16.645805
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 08:00:16.645805
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 08:00:16.645805
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 08:00:16.645805
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 08:00:16.645805
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 08:00:16.645805
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 08:00:16.645805
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 08:00:16.645805
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 08:00:16.645805
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 08:00:16.645805
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 08:00:16.645805
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 08:00:16.645805
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 08:00:16.645805
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 08:00:16.645805
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 08:00:16.645805
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 08:04:02.525232
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 08:04:02.525232
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 08:04:02.525232
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 08:04:02.525232
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 08:04:02.525232
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 08:04:02.525232
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 08:04:02.525232
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 08:04:02.525232
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 08:04:02.525232
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 08:04:02.525232
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 08:04:02.525232
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 08:04:02.525232
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 08:04:02.525232
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 08:04:02.525232
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 08:04:02.525232
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 08:04:02.525232
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 08:04:02.525232
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 08:04:02.525232
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 08:05:02.218916
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 08:05:02.218916
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 08:05:02.218916
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 08:05:02.218916
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 08:05:02.218916
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 08:05:02.218916
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 08:05:02.218916
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 08:05:02.218916
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 08:05:02.218916
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 08:05:02.218916
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 08:05:02.218916
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 08:05:02.218916
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 08:05:02.218916
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 08:05:02.218916
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 08:05:02.218916
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 08:05:02.218916
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 08:05:02.218916
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 08:05:02.218916
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 08:06:02.702411
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 08:06:02.702411
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 08:06:02.702411
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 08:06:02.702411
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 08:06:02.702411
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 08:06:02.702411
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 08:06:02.702411
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 08:06:02.702411
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 08:06:02.702411
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 08:06:02.702411
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 08:06:02.702411
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 08:06:02.702411
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 08:06:02.702411
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 08:06:02.702411
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 08:06:02.702411
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 08:06:02.702411
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 08:06:02.702411
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 08:06:02.702411
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 08:30:02.471651
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 08:30:02.471651
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 08:30:02.471651
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 08:30:02.471651
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 08:30:02.471651
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 08:30:02.471651
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 08:30:02.471651
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 08:30:02.471651
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 08:30:02.471651
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 08:30:02.471651
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 08:30:02.471651
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 08:30:02.471651
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 08:30:02.471651
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 08:30:02.471651
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 08:30:02.471651
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 08:30:02.471651
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 08:30:02.471651
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 08:30:02.471651
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 09:00:04.236754
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 09:00:04.236754
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 09:00:04.236754
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 09:00:04.236754
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 09:00:04.236754
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 09:00:04.236754
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 09:00:04.236754
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 09:00:04.236754
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 09:00:04.236754
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 09:00:04.236754
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 09:00:04.236754
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 09:00:04.236754
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 09:00:04.236754
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 09:00:04.236754
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 09:00:04.236754
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 09:00:04.236754
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 09:00:04.236754
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 09:00:04.236754
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 10:00:05.541852
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 10:00:05.541852
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 10:00:05.541852
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 10:00:05.541852
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 10:00:05.541852
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 10:00:05.541852
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 10:00:05.541852
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 10:00:05.541852
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 10:00:05.541852
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 10:00:05.541852
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 10:00:05.541852
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 10:00:05.541852
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 10:00:05.541852
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 10:00:05.541852
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 10:00:05.541852
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-23 17:00:04.125769
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 10:00:05.541852
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 10:00:05.541852
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 10:00:05.541852
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 10:04:56.031286
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 10:04:56.031286
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 10:04:56.031286
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 10:04:56.031286
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 10:04:56.031286
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 10:04:56.031286
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 10:04:56.031286
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 10:04:56.031286
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 10:04:56.031286
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 10:04:56.031286
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 10:04:56.031286
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 10:04:56.031286
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 10:04:56.031286
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 10:04:56.031286
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 10:04:56.031286
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 10:04:56.031286
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 10:04:56.031286
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 10:04:56.031286
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 10:14:13.168971
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 10:14:13.168971
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 10:14:13.168971
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 10:14:13.168971
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 10:14:13.168971
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 10:14:13.168971
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 10:14:13.168971
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 10:14:13.168971
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 10:14:13.168971
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 10:14:13.168971
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 10:14:13.168971
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 10:14:13.168971
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 10:14:13.168971
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 10:14:13.168971
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 10:14:13.168971
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 10:14:13.168971
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 10:14:13.168971
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 10:14:13.168971
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-23 17:00:04.125769
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 11:00:02.863650
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 11:00:02.863650
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 11:00:02.863650
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 11:00:02.863650
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 11:00:02.863650
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 11:00:02.863650
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 11:00:02.863650
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 11:00:02.863650
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 11:00:02.863650
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 11:00:02.863650
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 11:00:02.863650
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 11:00:02.863650
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 11:00:02.863650
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 11:00:02.863650
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 11:00:02.863650
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 11:00:02.863650
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 11:00:02.863650
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 11:00:02.863650
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 12:00:04.724198
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 12:00:04.724198
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 12:00:04.724198
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 12:00:04.724198
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 12:00:04.724198
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 12:00:04.724198
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 12:00:04.724198
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 12:00:04.724198
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 12:00:04.724198
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 12:00:04.724198
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 12:00:04.724198
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 12:00:04.724198
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 12:00:04.724198
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 12:00:04.724198
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 12:00:04.724198
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 12:00:04.724198
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 12:00:04.724198
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 12:00:04.724198
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 13:00:05.200075
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 13:00:05.200075
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 13:00:05.200075
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 13:00:05.200075
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 13:00:05.200075
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 13:00:05.200075
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 13:00:05.200075
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 13:00:05.200075
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 13:00:05.200075
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 13:00:05.200075
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 13:00:05.200075
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 13:00:05.200075
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 13:00:05.200075
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 13:00:05.200075
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 13:00:05.200075
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 13:00:05.200075
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 13:00:05.200075
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 13:00:05.200075
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 14:00:03.318440
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 14:00:03.318440
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 14:00:03.318440
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 14:00:03.318440
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 14:00:03.318440
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 14:00:03.318440
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 14:00:03.318440
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 14:00:03.318440
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 14:00:03.318440
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 14:00:03.318440
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 14:00:03.318440
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 14:00:03.318440
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 14:00:03.318440
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 14:00:03.318440
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 14:00:03.318440
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 14:00:03.318440
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 14:00:03.318440
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 14:00:03.318440
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 15:00:03.783704
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 15:00:03.783704
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 15:00:03.783704
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 15:00:03.783704
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 15:00:03.783704
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 15:00:03.783704
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 15:00:03.783704
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 15:00:03.783704
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 15:00:03.783704
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 15:00:03.783704
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 15:00:03.783704
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 15:00:03.783704
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 15:00:03.783704
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 15:00:03.783704
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 15:00:03.783704
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 15:00:03.783704
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 15:00:03.783704
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 15:00:03.783704
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 16:00:03.851476
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 16:00:03.851476
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 16:00:03.851476
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 16:00:03.851476
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 16:00:03.851476
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 16:00:03.851476
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 16:00:03.851476
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 16:00:03.851476
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 16:00:03.851476
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 16:00:03.851476
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 16:00:03.851476
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 16:00:03.851476
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 16:00:03.851476
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 16:00:03.851476
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 16:00:03.851476
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 16:00:03.851476
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 16:00:03.851476
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 16:00:03.851476
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 17:00:03.918919
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 17:00:03.918919
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 17:00:03.918919
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 17:00:03.918919
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 17:00:03.918919
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 17:00:03.918919
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 17:00:03.918919
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 17:00:03.918919
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 17:00:03.918919
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 17:00:03.918919
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 17:00:03.918919
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 17:00:03.918919
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 17:00:03.918919
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 17:00:03.918919
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 17:00:03.918919
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 17:00:03.918919
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 17:00:03.918919
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 17:00:03.918919
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 18:00:02.364486
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 18:00:02.364486
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 18:00:02.364486
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 18:00:02.364486
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 18:00:02.364486
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 18:00:02.364486
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 18:00:02.364486
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 18:00:02.364486
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 18:00:02.364486
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 18:00:02.364486
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 18:00:02.364486
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 18:00:02.364486
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 18:00:02.364486
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 18:00:02.364486
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 18:00:02.364486
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 18:00:02.364486
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 18:00:02.364486
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 18:00:02.364486
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 19:00:05.568538
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 19:00:05.568538
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 19:00:05.568538
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 19:00:05.568538
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 19:00:05.568538
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 19:00:05.568538
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 19:00:05.568538
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 19:00:05.568538
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 19:00:05.568538
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 19:00:05.568538
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 19:00:05.568538
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 19:00:05.568538
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 19:00:05.568538
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 19:00:05.568538
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 19:00:05.568538
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-23 17:00:04.125769
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 19:00:05.568538
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 19:00:05.568538
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 19:00:05.568538
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 20:00:03.066532
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 20:00:03.066532
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 20:00:03.066532
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 20:00:03.066532
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 20:00:03.066532
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 20:00:03.066532
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 20:00:03.066532
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 20:00:03.066532
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 20:00:03.066532
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 20:00:03.066532
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 20:00:03.066532
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 20:00:03.066532
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 20:00:03.066532
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 20:00:03.066532
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 20:00:03.066532
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 20:00:03.066532
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 20:00:03.066532
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 20:00:03.066532
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 21:00:02.682538
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 21:00:02.682538
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 21:00:02.682538
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 21:00:02.682538
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 21:00:02.682538
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 21:00:02.682538
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 21:00:02.682538
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 21:00:02.682538
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 21:00:02.682538
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 21:00:02.682538
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 21:00:02.682538
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 21:00:02.682538
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 21:00:02.682538
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 21:00:02.682538
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 21:00:02.682538
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 21:00:02.682538
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 21:00:02.682538
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 21:00:02.682538
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-23 17:00:04.125769
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 22:00:04.256715
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 22:00:04.256715
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 22:00:04.256715
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 22:00:04.256715
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 22:00:04.256715
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 22:00:04.256715
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 22:00:04.256715
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 22:00:04.256715
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 22:00:04.256715
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 22:00:04.256715
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 22:00:04.256715
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 22:00:04.256715
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 22:00:04.256715
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 22:00:04.256715
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 22:00:04.256715
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 22:00:04.256715
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 22:00:04.256715
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 22:00:04.256715
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-22 23:00:03.411127
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-22 23:00:03.411127
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-22 23:00:03.411127
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-22 23:00:03.411127
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-22 23:00:03.411127
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-22 23:00:03.411127
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-22 23:00:03.411127
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-22 23:00:03.411127
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-22 23:00:03.411127
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-22 23:00:03.411127
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-22 23:00:03.411127
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-22 23:00:03.411127
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-22 23:00:03.411127
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-22 23:00:03.411127
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-22 23:00:03.411127
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-22 23:00:03.411127
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-22 23:00:03.411127
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-22 23:00:03.411127
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-23 00:00:03.592355
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-23 00:00:03.592355
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-23 00:00:03.592355
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-23 00:00:03.592355
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-23 00:00:03.592355
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-23 00:00:03.592355
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-23 00:00:03.592355
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-23 00:00:03.592355
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-23 00:00:03.592355
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-23 00:00:03.592355
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-23 00:00:03.592355
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-23 00:00:03.592355
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-23 00:00:03.592355
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-23 00:00:03.592355
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-23 00:00:03.592355
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-23 00:00:03.592355
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-23 00:00:03.592355
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-23 00:00:03.592355
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-23 01:00:03.515762
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-23 01:00:03.515762
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-23 01:00:03.515762
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-23 01:00:03.515762
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-23 01:00:03.515762
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-23 01:00:03.515762
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-23 01:00:03.515762
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-23 01:00:03.515762
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-23 01:00:03.515762
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-23 01:00:03.515762
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-23 01:00:03.515762
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-23 01:00:03.515762
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-23 01:00:03.515762
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-23 01:00:03.515762
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-23 01:00:03.515762
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-23 01:00:03.515762
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-23 01:00:03.515762
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-23 01:00:03.515762
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-23 02:00:03.205354
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-23 02:00:03.205354
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-23 02:00:03.205354
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-23 02:00:03.205354
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-23 02:00:03.205354
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-23 02:00:03.205354
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-23 02:00:03.205354
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-23 02:00:03.205354
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-23 02:00:03.205354
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-23 02:00:03.205354
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-23 02:00:03.205354
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-23 02:00:03.205354
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-23 02:00:03.205354
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-23 02:00:03.205354
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-23 02:00:03.205354
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-23 02:00:03.205354
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-23 02:00:03.205354
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-23 02:00:03.205354
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-23 03:00:05.494865
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-23 03:00:05.494865
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-23 03:00:05.494865
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-23 03:00:05.494865
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-23 03:00:05.494865
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-23 03:00:05.494865
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-23 03:00:05.494865
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-23 03:00:05.494865
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-23 03:00:05.494865
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-23 03:00:05.494865
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-23 03:00:05.494865
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-23 03:00:05.494865
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-23 03:00:05.494865
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-23 03:00:05.494865
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-23 03:00:05.494865
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-23 03:00:05.494865
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-23 03:00:05.494865
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-23 03:00:05.494865
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-23 04:00:03.992034
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-23 04:00:03.992034
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-23 04:00:03.992034
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-23 04:00:03.992034
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-23 04:00:03.992034
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-23 04:00:03.992034
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-23 04:00:03.992034
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-23 04:00:03.992034
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-23 04:00:03.992034
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-23 04:00:03.992034
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-23 04:00:03.992034
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-23 04:00:03.992034
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-23 04:00:03.992034
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-23 04:00:03.992034
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-23 04:00:03.992034
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-23 04:00:03.992034
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-23 04:00:03.992034
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-23 04:00:03.992034
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-23 05:00:05.652704
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-23 05:00:05.652704
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-23 05:00:05.652704
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-23 05:00:05.652704
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-23 05:00:05.652704
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-23 05:00:05.652704
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-23 05:00:05.652704
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-23 05:00:05.652704
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-23 05:00:05.652704
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-23 05:00:05.652704
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-23 05:00:05.652704
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-23 05:00:05.652704
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-23 05:00:05.652704
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-23 05:00:05.652704
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-23 05:00:05.652704
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-23 05:00:05.652704
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-23 05:00:05.652704
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-23 05:00:05.652704
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-23 06:00:04.488062
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-23 06:00:04.488062
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-23 06:00:04.488062
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-23 06:00:04.488062
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-23 06:00:04.488062
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-23 06:00:04.488062
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-23 06:00:04.488062
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-23 06:00:04.488062
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-23 06:00:04.488062
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-23 06:00:04.488062
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-23 06:00:04.488062
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-23 06:00:04.488062
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-23 06:00:04.488062
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-23 06:00:04.488062
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-23 06:00:04.488062
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-23 19:00:05.002503
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-23 06:00:04.488062
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-23 06:00:04.488062
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-23 06:00:04.488062
+0,VšĮ Vilkpėdės ligoninė,167,4,27,0,140,4,0,0,0,0,1,2020-03-23 07:00:07.728975
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,0,0,0,0,0,0,0,0,2,2020-03-23 07:00:07.728975
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,0,0,0,0,0,0,0,0,3,2020-03-23 07:00:07.728975
+3,VšĮ Šv. Roko ligoninė,169,7,42,1,109,6,0,0,0,0,4,2020-03-23 07:00:07.728975
+4,VšĮ Antakalnio poliklinika,0,0,0,0,0,0,0,0,0,0,5,2020-03-23 07:00:07.728975
+5,VšĮ Karoliniškių poliklinika,166,7,84,7,72,0,3,0,0,0,6,2020-03-23 07:00:07.728975
+6,VšĮ Lazdynų poliklinika,56,2,28,1,28,1,0,0,0,0,7,2020-03-23 07:00:07.728975
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,0,0,0,0,0,0,0,0,8,2020-03-23 07:00:07.728975
+8,VšĮ Naujininkų poliklinika,124,1,26,0,98,1,0,0,0,0,9,2020-03-23 07:00:07.728975
+9,VšĮ Naujosios Vilnios poliklinika,132,5,43,4,72,1,0,0,0,0,10,2020-03-23 07:00:07.728975
+10,VšĮ Šeškinės poliklinika,448,25,151,11,257,14,0,0,0,0,11,2020-03-23 07:00:07.728975
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,6,10,4,4,0,0,0,0,12,2020-03-23 07:00:07.728975
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,88,4,108,1,0,0,0,0,13,2020-03-23 07:00:07.728975
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,14,0,27,0,0,0,0,0,14,2020-03-23 07:00:07.728975
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,0,0,0,0,0,0,0,0,15,2020-03-23 07:00:07.728975
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,0,0,0,0,0,0,0,0,16,2020-03-23 07:00:07.728975
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,0,0,0,0,0,0,0,0,17,2020-03-23 07:00:07.728975
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,0,0,0,0,0,0,0,0,18,2020-03-23 07:00:07.728975
+0,VšĮ Vilkpėdės ligoninė,167,4,,0,,4,0,0,0,0,1,2020-03-23 08:00:06.326810
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,,0,,0,0,0,0,0,2,2020-03-23 08:00:06.326810
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,,0,,0,0,0,0,0,3,2020-03-23 08:00:06.326810
+3,VšĮ Šv. Roko ligoninė,169,7,,1,,6,0,0,0,0,4,2020-03-23 08:00:06.326810
+4,VšĮ Antakalnio poliklinika,443,13,,11,,2,3,0,0,0,5,2020-03-23 08:00:06.326810
+5,VšĮ Karoliniškių poliklinika,166,7,,7,,0,3,0,0,0,6,2020-03-23 08:00:06.326810
+6,VšĮ Lazdynų poliklinika,139,6,,5,,1,0,0,0,0,7,2020-03-23 08:00:06.326810
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,,0,,0,3,0,0,0,8,2020-03-23 08:00:06.326810
+8,VšĮ Naujininkų poliklinika,124,1,,0,,1,0,0,0,0,9,2020-03-23 08:00:06.326810
+9,VšĮ Naujosios Vilnios poliklinika,132,3,,2,,1,0,0,0,0,10,2020-03-23 08:00:06.326810
+10,VšĮ Šeškinės poliklinika,448,25,,11,,14,0,0,0,0,11,2020-03-23 08:00:06.326810
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,,10,,4,0,0,0,0,12,2020-03-23 08:00:06.326810
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,,4,,1,0,0,0,0,13,2020-03-23 08:00:06.326810
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,,0,,0,0,0,0,0,14,2020-03-23 08:00:06.326810
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,,0,,0,0,0,0,0,15,2020-03-23 08:00:06.326810
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,,0,,0,0,0,0,0,16,2020-03-23 08:00:06.326810
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,,0,,0,0,0,0,0,17,2020-03-23 08:00:06.326810
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,,0,,0,0,0,0,0,18,2020-03-23 08:00:06.326810
+18,VšĮ VUL Žalgirio klinika,95,0,,0,,0,9,0,0,0,19,2020-03-23 08:00:06.326810
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-24 12:00:07.653071
+0,VšĮ Vilkpėdės ligoninė,167,4,,0,,4,0,0,0,0,1,2020-03-23 09:00:03.009250
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,,0,,0,0,0,0,0,2,2020-03-23 09:00:03.009250
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,,0,,0,0,0,0,0,3,2020-03-23 09:00:03.009250
+3,VšĮ Šv. Roko ligoninė,169,7,,1,,6,0,0,0,0,4,2020-03-23 09:00:03.009250
+4,VšĮ Antakalnio poliklinika,443,13,,11,,2,3,0,0,0,5,2020-03-23 09:00:03.009250
+5,VšĮ Karoliniškių poliklinika,166,7,,7,,0,3,0,0,0,6,2020-03-23 09:00:03.009250
+6,VšĮ Lazdynų poliklinika,139,6,,5,,1,0,0,0,0,7,2020-03-23 09:00:03.009250
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,,0,,0,3,0,0,0,8,2020-03-23 09:00:03.009250
+8,VšĮ Naujininkų poliklinika,124,1,,0,,1,0,0,0,0,9,2020-03-23 09:00:03.009250
+9,VšĮ Naujosios Vilnios poliklinika,132,3,,2,,1,0,0,0,0,10,2020-03-23 09:00:03.009250
+10,VšĮ Šeškinės poliklinika,448,25,,11,,14,0,0,0,0,11,2020-03-23 09:00:03.009250
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,,10,,4,0,0,0,0,12,2020-03-23 09:00:03.009250
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,,4,,1,0,0,0,0,13,2020-03-23 09:00:03.009250
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,,0,,0,0,0,0,0,14,2020-03-23 09:00:03.009250
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,,0,,0,0,0,0,0,15,2020-03-23 09:00:03.009250
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,,0,,0,0,0,0,0,16,2020-03-23 09:00:03.009250
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,,0,,0,0,0,0,0,17,2020-03-23 09:00:03.009250
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,,0,,0,0,0,0,0,18,2020-03-23 09:00:03.009250
+18,VšĮ VUL Žalgirio klinika,95,0,,0,,0,9,0,0,0,19,2020-03-23 09:00:03.009250
+0,VšĮ Vilkpėdės ligoninė,167,4,,0,,4,0,0,0,0,1,2020-03-23 10:00:02.715174
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,,0,,0,0,0,0,0,2,2020-03-23 10:00:02.715174
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,,0,,0,0,0,0,0,3,2020-03-23 10:00:02.715174
+3,VšĮ Šv. Roko ligoninė,169,7,,1,,6,0,0,0,0,4,2020-03-23 10:00:02.715174
+4,VšĮ Antakalnio poliklinika,443,13,,11,,2,3,0,0,0,5,2020-03-23 10:00:02.715174
+5,VšĮ Karoliniškių poliklinika,166,7,,7,,0,3,0,0,0,6,2020-03-23 10:00:02.715174
+6,VšĮ Lazdynų poliklinika,139,6,,5,,1,0,0,0,0,7,2020-03-23 10:00:02.715174
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,,0,,0,3,0,0,0,8,2020-03-23 10:00:02.715174
+8,VšĮ Naujininkų poliklinika,124,1,,0,,1,0,0,0,0,9,2020-03-23 10:00:02.715174
+9,VšĮ Naujosios Vilnios poliklinika,132,3,,2,,1,0,0,0,0,10,2020-03-23 10:00:02.715174
+10,VšĮ Šeškinės poliklinika,448,25,,11,,14,0,0,0,0,11,2020-03-23 10:00:02.715174
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,,10,,4,0,0,0,0,12,2020-03-23 10:00:02.715174
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,,4,,1,0,0,0,0,13,2020-03-23 10:00:02.715174
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,,0,,0,0,0,0,0,14,2020-03-23 10:00:02.715174
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,,0,,0,0,0,0,0,15,2020-03-23 10:00:02.715174
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,,0,,0,0,0,0,0,16,2020-03-23 10:00:02.715174
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,,0,,0,0,0,0,0,17,2020-03-23 10:00:02.715174
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,,0,,0,0,0,0,0,18,2020-03-23 10:00:02.715174
+18,VšĮ VUL Žalgirio klinika,95,0,,0,,0,9,0,0,0,19,2020-03-23 10:00:02.715174
+0,VšĮ Vilkpėdės ligoninė,167,4,,0,,4,0,0,0,0,1,2020-03-23 11:00:03.448811
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,,0,,0,0,0,0,0,2,2020-03-23 11:00:03.448811
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,,0,,0,0,0,0,0,3,2020-03-23 11:00:03.448811
+3,VšĮ Šv. Roko ligoninė,169,7,,1,,6,0,0,0,0,4,2020-03-23 11:00:03.448811
+4,VšĮ Antakalnio poliklinika,443,13,,11,,2,3,0,0,0,5,2020-03-23 11:00:03.448811
+5,VšĮ Karoliniškių poliklinika,166,7,,7,,0,3,0,0,0,6,2020-03-23 11:00:03.448811
+6,VšĮ Lazdynų poliklinika,139,6,,5,,1,0,0,0,0,7,2020-03-23 11:00:03.448811
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,,0,,0,3,0,0,0,8,2020-03-23 11:00:03.448811
+8,VšĮ Naujininkų poliklinika,124,1,,0,,1,0,0,0,0,9,2020-03-23 11:00:03.448811
+9,VšĮ Naujosios Vilnios poliklinika,132,3,,2,,1,0,0,0,0,10,2020-03-23 11:00:03.448811
+10,VšĮ Šeškinės poliklinika,448,25,,11,,14,0,0,0,0,11,2020-03-23 11:00:03.448811
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,,10,,4,0,0,0,0,12,2020-03-23 11:00:03.448811
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,,4,,1,0,0,0,0,13,2020-03-23 11:00:03.448811
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,,0,,0,0,0,0,0,14,2020-03-23 11:00:03.448811
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,,0,,0,0,0,0,0,15,2020-03-23 11:00:03.448811
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,,0,,0,0,0,0,0,16,2020-03-23 11:00:03.448811
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,,0,,0,0,0,0,0,17,2020-03-23 11:00:03.448811
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,,0,,0,0,0,0,0,18,2020-03-23 11:00:03.448811
+18,VšĮ VUL Žalgirio klinika,95,0,,0,,0,9,0,0,0,19,2020-03-23 11:00:03.448811
+0,VšĮ Vilkpėdės ligoninė,167,4,,0,,4,0,0,0,0,1,2020-03-23 12:00:05.274190
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,,0,,0,0,0,0,0,2,2020-03-23 12:00:05.274190
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,,0,,0,0,0,0,0,3,2020-03-23 12:00:05.274190
+3,VšĮ Šv. Roko ligoninė,169,7,,1,,6,0,0,0,0,4,2020-03-23 12:00:05.274190
+4,VšĮ Antakalnio poliklinika,443,13,,11,,2,3,0,0,0,5,2020-03-23 12:00:05.274190
+5,VšĮ Karoliniškių poliklinika,166,7,,7,,0,3,0,0,0,6,2020-03-23 12:00:05.274190
+6,VšĮ Lazdynų poliklinika,139,6,,5,,1,0,0,0,0,7,2020-03-23 12:00:05.274190
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,,0,,0,3,0,0,0,8,2020-03-23 12:00:05.274190
+8,VšĮ Naujininkų poliklinika,124,1,,0,,1,0,0,0,0,9,2020-03-23 12:00:05.274190
+9,VšĮ Naujosios Vilnios poliklinika,132,3,,2,,1,0,0,0,0,10,2020-03-23 12:00:05.274190
+10,VšĮ Šeškinės poliklinika,448,25,,11,,14,0,0,0,0,11,2020-03-23 12:00:05.274190
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,,10,,4,0,0,0,0,12,2020-03-23 12:00:05.274190
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,,4,,1,0,0,0,0,13,2020-03-23 12:00:05.274190
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,,0,,0,0,0,0,0,14,2020-03-23 12:00:05.274190
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,,0,,0,0,0,0,0,15,2020-03-23 12:00:05.274190
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,,0,,0,0,0,0,0,16,2020-03-23 12:00:05.274190
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,,0,,0,0,0,0,0,17,2020-03-23 12:00:05.274190
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,,0,,0,0,0,0,0,18,2020-03-23 12:00:05.274190
+18,VšĮ VUL Žalgirio klinika,95,0,,0,,0,9,0,0,0,19,2020-03-23 12:00:05.274190
+0,VšĮ Vilkpėdės ligoninė,167,4,,0,,4,0,0,0,0,1,2020-03-23 13:00:03.139367
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,,0,,0,0,0,0,0,2,2020-03-23 13:00:03.139367
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,,0,,0,0,0,0,0,3,2020-03-23 13:00:03.139367
+3,VšĮ Šv. Roko ligoninė,169,7,,1,,6,0,0,0,0,4,2020-03-23 13:00:03.139367
+4,VšĮ Antakalnio poliklinika,443,13,,11,,2,3,0,0,0,5,2020-03-23 13:00:03.139367
+5,VšĮ Karoliniškių poliklinika,166,7,,7,,0,3,0,0,0,6,2020-03-23 13:00:03.139367
+6,VšĮ Lazdynų poliklinika,139,6,,5,,1,0,0,0,0,7,2020-03-23 13:00:03.139367
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,,0,,0,3,0,0,0,8,2020-03-23 13:00:03.139367
+8,VšĮ Naujininkų poliklinika,124,1,,0,,1,0,0,0,0,9,2020-03-23 13:00:03.139367
+9,VšĮ Naujosios Vilnios poliklinika,132,3,,2,,1,0,0,0,0,10,2020-03-23 13:00:03.139367
+10,VšĮ Šeškinės poliklinika,448,25,,11,,14,0,0,0,0,11,2020-03-23 13:00:03.139367
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,,10,,4,0,0,0,0,12,2020-03-23 13:00:03.139367
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,,4,,1,0,0,0,0,13,2020-03-23 13:00:03.139367
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,,0,,0,0,0,0,0,14,2020-03-23 13:00:03.139367
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,,0,,0,0,0,0,0,15,2020-03-23 13:00:03.139367
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,,0,,0,0,0,0,0,16,2020-03-23 13:00:03.139367
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,,0,,0,0,0,0,0,17,2020-03-23 13:00:03.139367
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,,0,,0,0,0,0,0,18,2020-03-23 13:00:03.139367
+18,VšĮ VUL Žalgirio klinika,95,0,,0,,0,9,0,0,0,19,2020-03-23 13:00:03.139367
+0,VšĮ Vilkpėdės ligoninė,167,4,,0,,4,0,0,0,0,1,2020-03-23 14:00:03.770678
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,0,0,,0,,0,0,0,0,0,2,2020-03-23 14:00:03.770678
+2,VšĮ Vilniaus miesto klinikinė ligoninė,0,0,,0,,0,0,0,0,0,3,2020-03-23 14:00:03.770678
+3,VšĮ Šv. Roko ligoninė,169,7,,1,,6,0,0,0,0,4,2020-03-23 14:00:03.770678
+4,VšĮ Antakalnio poliklinika,443,13,,11,,2,3,0,0,0,5,2020-03-23 14:00:03.770678
+5,VšĮ Karoliniškių poliklinika,166,7,,7,,0,3,0,0,0,6,2020-03-23 14:00:03.770678
+6,VšĮ Lazdynų poliklinika,139,6,,5,,1,0,0,0,0,7,2020-03-23 14:00:03.770678
+7,"VšĮ Centro poliklinika, Dienos stacionaras",862,16,,0,,0,3,0,0,0,8,2020-03-23 14:00:03.770678
+8,VšĮ Naujininkų poliklinika,124,1,,0,,1,0,0,0,0,9,2020-03-23 14:00:03.770678
+9,VšĮ Naujosios Vilnios poliklinika,132,3,,2,,1,0,0,0,0,10,2020-03-23 14:00:03.770678
+10,VšĮ Šeškinės poliklinika,448,25,,11,,14,0,0,0,0,11,2020-03-23 14:00:03.770678
+11,VšĮ Greitosios medicinos pagalbos stotis,380,10,,10,,4,0,0,0,0,12,2020-03-23 14:00:03.770678
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,196,5,,4,,1,0,0,0,0,13,2020-03-23 14:00:03.770678
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,43,0,,0,,0,0,0,0,0,14,2020-03-23 14:00:03.770678
+14,BĮ Vilniaus visuomenės sveikatos biuras,0,0,,0,,0,0,0,0,0,15,2020-03-23 14:00:03.770678
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,0,0,,0,,0,0,0,0,0,16,2020-03-23 14:00:03.770678
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,0,0,,0,,0,0,0,0,0,17,2020-03-23 14:00:03.770678
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,0,0,,0,,0,0,0,0,0,18,2020-03-23 14:00:03.770678
+18,VšĮ VUL Žalgirio klinika,95,0,,0,,0,9,0,0,0,19,2020-03-23 14:00:03.770678
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-23 15:00:04.948810
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-23 15:00:04.948810
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-23 15:00:04.948810
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-23 15:00:04.948810
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-23 15:00:04.948810
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-23 15:00:04.948810
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-23 15:00:04.948810
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-23 15:00:04.948810
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-23 15:00:04.948810
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-23 15:00:04.948810
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-23 15:00:04.948810
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-23 15:00:04.948810
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-23 15:00:04.948810
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-23 15:00:04.948810
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-23 15:00:04.948810
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-23 15:00:04.948810
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-23 15:00:04.948810
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-23 15:00:04.948810
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-23 15:00:04.948810
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-23 15:00:04.948810
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-23 15:00:04.948810
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-23 15:00:04.948810
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-23 15:00:04.948810
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-23 15:00:04.948810
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-23 15:00:04.948810
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-23 15:00:04.948810
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-23 15:00:04.948810
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-23 15:00:04.948810
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-23 15:00:04.948810
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-23 15:00:04.948810
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-23 15:00:04.948810
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-23 15:00:04.948810
+32,UAB InMedica,,,,,,,,,,,33,2020-03-23 15:00:04.948810
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-23 15:00:04.948810
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-23 15:00:04.948810
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-23 15:00:04.948810
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-23 16:00:05.713101
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-23 16:00:05.713101
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-23 16:00:05.713101
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-23 16:00:05.713101
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-23 16:00:05.713101
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-23 16:00:05.713101
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-23 16:00:05.713101
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-23 16:00:05.713101
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-23 16:00:05.713101
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-23 16:00:05.713101
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-23 16:00:05.713101
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-23 16:00:05.713101
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-23 16:00:05.713101
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-23 16:00:05.713101
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-23 16:00:05.713101
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-23 16:00:05.713101
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-23 16:00:05.713101
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-23 16:00:05.713101
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-23 16:00:05.713101
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-23 16:00:05.713101
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-23 16:00:05.713101
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-23 16:00:05.713101
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-23 16:00:05.713101
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-23 16:00:05.713101
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-23 16:00:05.713101
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-23 16:00:05.713101
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-23 16:00:05.713101
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-23 16:00:05.713101
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-23 16:00:05.713101
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-23 16:00:05.713101
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-23 16:00:05.713101
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-23 16:00:05.713101
+32,UAB InMedica,,,,,,,,,,,33,2020-03-23 16:00:05.713101
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-23 16:00:05.713101
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-23 16:00:05.713101
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-23 16:00:05.713101
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-23 16:00:05.713101
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-23 16:00:05.713101
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-23 17:00:04.125769
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-23 17:00:04.125769
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-23 17:00:04.125769
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-23 17:00:04.125769
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-23 17:00:04.125769
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-23 17:00:04.125769
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-23 17:00:04.125769
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-23 17:00:04.125769
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-23 17:00:04.125769
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-23 17:00:04.125769
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-23 17:00:04.125769
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-23 17:00:04.125769
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-23 17:00:04.125769
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-23 17:00:04.125769
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-23 17:00:04.125769
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-23 17:00:04.125769
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-23 17:00:04.125769
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-23 17:00:04.125769
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-23 17:00:04.125769
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-23 17:00:04.125769
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-23 17:00:04.125769
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-23 17:00:04.125769
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-23 17:00:04.125769
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-23 17:00:04.125769
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-23 17:00:04.125769
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-23 17:00:04.125769
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-23 17:00:04.125769
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-23 17:00:04.125769
+32,UAB InMedica,,,,,,,,,,,33,2020-03-23 17:00:04.125769
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-23 17:00:04.125769
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-23 17:00:04.125769
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-23 17:00:04.125769
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-23 17:00:04.125769
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-23 17:00:04.125769
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-23 18:00:05.057278
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-23 18:00:05.057278
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-23 18:00:05.057278
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-23 18:00:05.057278
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-23 18:00:05.057278
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-23 18:00:05.057278
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-23 18:00:05.057278
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-23 18:00:05.057278
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-23 18:00:05.057278
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-23 18:00:05.057278
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-23 18:00:05.057278
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-23 18:00:05.057278
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-23 18:00:05.057278
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-23 18:00:05.057278
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-23 18:00:05.057278
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-23 18:00:05.057278
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-23 18:00:05.057278
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-23 18:00:05.057278
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-23 18:00:05.057278
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-23 18:00:05.057278
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-23 18:00:05.057278
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-23 18:00:05.057278
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-23 18:00:05.057278
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-23 18:00:05.057278
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-23 18:00:05.057278
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-23 18:00:05.057278
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-23 18:00:05.057278
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-23 18:00:05.057278
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-23 18:00:05.057278
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-23 18:00:05.057278
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-23 18:00:05.057278
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-23 18:00:05.057278
+32,UAB InMedica,,,,,,,,,,,33,2020-03-23 18:00:05.057278
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-23 18:00:05.057278
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-23 18:00:05.057278
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-23 18:00:05.057278
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-23 18:00:05.057278
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-23 18:00:05.057278
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-23 19:00:05.002503
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-23 19:00:05.002503
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-23 19:00:05.002503
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-23 19:00:05.002503
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-23 19:00:05.002503
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-23 19:00:05.002503
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-23 19:00:05.002503
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-23 19:00:05.002503
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-23 19:00:05.002503
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-23 19:00:05.002503
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-23 19:00:05.002503
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-23 19:00:05.002503
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-23 19:00:05.002503
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-23 19:00:05.002503
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-23 19:00:05.002503
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-23 19:00:05.002503
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-23 19:00:05.002503
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-23 19:00:05.002503
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-23 19:00:05.002503
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-23 19:00:05.002503
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-23 19:00:05.002503
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-23 19:00:05.002503
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-23 19:00:05.002503
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-23 19:00:05.002503
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-23 19:00:05.002503
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-23 19:00:05.002503
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-23 19:00:05.002503
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-23 19:00:05.002503
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-23 19:00:05.002503
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-23 19:00:05.002503
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-23 19:00:05.002503
+32,UAB InMedica,,,,,,,,,,,33,2020-03-23 19:00:05.002503
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-23 19:00:05.002503
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-23 19:00:05.002503
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-23 19:00:05.002503
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-23 19:00:05.002503
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-23 19:00:05.002503
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-23 20:00:05.761218
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-23 20:00:05.761218
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-23 20:00:05.761218
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-23 20:00:05.761218
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-23 20:00:05.761218
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-23 20:00:05.761218
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-23 20:00:05.761218
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-23 20:00:05.761218
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-23 20:00:05.761218
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-23 20:00:05.761218
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-23 20:00:05.761218
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-23 20:00:05.761218
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-23 20:00:05.761218
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-23 20:00:05.761218
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-23 20:00:05.761218
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-23 20:00:05.761218
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-23 20:00:05.761218
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-23 20:00:05.761218
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-23 20:00:05.761218
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-23 20:00:05.761218
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-23 20:00:05.761218
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-23 20:00:05.761218
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-23 20:00:05.761218
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-23 20:00:05.761218
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-23 20:00:05.761218
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-23 20:00:05.761218
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-23 20:00:05.761218
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-23 20:00:05.761218
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-23 20:00:05.761218
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-23 20:00:05.761218
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-23 20:00:05.761218
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-23 20:00:05.761218
+32,UAB InMedica,,,,,,,,,,,33,2020-03-23 20:00:05.761218
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-23 20:00:05.761218
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-23 20:00:05.761218
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-23 20:00:05.761218
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-23 20:00:05.761218
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-23 20:00:05.761218
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-23 21:00:03.631917
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-23 21:00:03.631917
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-23 21:00:03.631917
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-23 21:00:03.631917
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-23 21:00:03.631917
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-23 21:00:03.631917
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-23 21:00:03.631917
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-23 21:00:03.631917
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-23 21:00:03.631917
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-23 21:00:03.631917
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-23 21:00:03.631917
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-23 21:00:03.631917
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-23 21:00:03.631917
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-23 21:00:03.631917
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-23 21:00:03.631917
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-23 21:00:03.631917
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-23 21:00:03.631917
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-23 21:00:03.631917
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-23 21:00:03.631917
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-23 21:00:03.631917
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-23 21:00:03.631917
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-23 21:00:03.631917
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-23 21:00:03.631917
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-23 21:00:03.631917
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-23 21:00:03.631917
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-23 21:00:03.631917
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-23 21:00:03.631917
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-23 21:00:03.631917
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-23 21:00:03.631917
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-23 21:00:03.631917
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-23 21:00:03.631917
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-23 21:00:03.631917
+32,UAB InMedica,,,,,,,,,,,33,2020-03-23 21:00:03.631917
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-23 21:00:03.631917
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-23 21:00:03.631917
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-23 21:00:03.631917
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-23 21:00:03.631917
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-23 21:00:03.631917
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-23 22:00:04.539191
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-23 22:00:04.539191
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-23 22:00:04.539191
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-23 22:00:04.539191
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-23 22:00:04.539191
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-23 22:00:04.539191
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-23 22:00:04.539191
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-23 22:00:04.539191
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-23 22:00:04.539191
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-23 22:00:04.539191
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-23 22:00:04.539191
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-23 22:00:04.539191
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-23 22:00:04.539191
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-23 22:00:04.539191
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-23 22:00:04.539191
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-23 22:00:04.539191
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-23 22:00:04.539191
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-23 22:00:04.539191
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-23 22:00:04.539191
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-23 22:00:04.539191
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-23 22:00:04.539191
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-23 22:00:04.539191
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-23 22:00:04.539191
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-23 22:00:04.539191
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-23 22:00:04.539191
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-23 22:00:04.539191
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-23 22:00:04.539191
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-23 22:00:04.539191
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-23 22:00:04.539191
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-23 22:00:04.539191
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-23 22:00:04.539191
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-23 22:00:04.539191
+32,UAB InMedica,,,,,,,,,,,33,2020-03-23 22:00:04.539191
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-23 22:00:04.539191
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-23 22:00:04.539191
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-23 22:00:04.539191
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-23 22:00:04.539191
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-23 22:00:04.539191
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-23 23:00:04.332743
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-23 23:00:04.332743
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-23 23:00:04.332743
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-23 23:00:04.332743
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-23 23:00:04.332743
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-23 23:00:04.332743
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-23 23:00:04.332743
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-23 23:00:04.332743
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-23 23:00:04.332743
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-23 23:00:04.332743
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-23 23:00:04.332743
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-23 23:00:04.332743
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-23 23:00:04.332743
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-23 23:00:04.332743
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-23 23:00:04.332743
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-23 23:00:04.332743
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-23 23:00:04.332743
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-23 23:00:04.332743
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-23 23:00:04.332743
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-23 23:00:04.332743
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-23 23:00:04.332743
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-23 23:00:04.332743
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-23 23:00:04.332743
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-23 23:00:04.332743
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-23 23:00:04.332743
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-23 23:00:04.332743
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-23 23:00:04.332743
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-23 23:00:04.332743
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-23 23:00:04.332743
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-23 23:00:04.332743
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-23 23:00:04.332743
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-23 23:00:04.332743
+32,UAB InMedica,,,,,,,,,,,33,2020-03-23 23:00:04.332743
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-23 23:00:04.332743
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-23 23:00:04.332743
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-23 23:00:04.332743
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-23 23:00:04.332743
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-23 23:00:04.332743
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-24 00:00:04.224846
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-24 00:00:04.224846
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-24 00:00:04.224846
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-24 00:00:04.224846
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-24 00:00:04.224846
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-24 00:00:04.224846
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-24 00:00:04.224846
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-24 00:00:04.224846
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-24 00:00:04.224846
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-24 00:00:04.224846
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-24 00:00:04.224846
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-24 00:00:04.224846
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-24 00:00:04.224846
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-24 00:00:04.224846
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-24 00:00:04.224846
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-24 00:00:04.224846
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-24 00:00:04.224846
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-24 00:00:04.224846
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-24 00:00:04.224846
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-24 00:00:04.224846
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-24 00:00:04.224846
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-24 00:00:04.224846
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-24 00:00:04.224846
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-24 00:00:04.224846
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-24 00:00:04.224846
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-24 00:00:04.224846
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-24 00:00:04.224846
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-24 00:00:04.224846
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-24 00:00:04.224846
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-24 00:00:04.224846
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-24 00:00:04.224846
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-24 00:00:04.224846
+32,UAB InMedica,,,,,,,,,,,33,2020-03-24 00:00:04.224846
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-24 00:00:04.224846
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-24 00:00:04.224846
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-24 00:00:04.224846
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-24 00:00:04.224846
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-24 00:00:04.224846
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-24 01:00:03.464222
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-24 01:00:03.464222
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-24 01:00:03.464222
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-24 01:00:03.464222
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-24 01:00:03.464222
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-24 01:00:03.464222
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-24 01:00:03.464222
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-24 01:00:03.464222
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-24 01:00:03.464222
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-24 01:00:03.464222
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-24 01:00:03.464222
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-24 01:00:03.464222
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-24 01:00:03.464222
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-24 01:00:03.464222
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-24 01:00:03.464222
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-24 01:00:03.464222
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-24 01:00:03.464222
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-24 01:00:03.464222
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-24 01:00:03.464222
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-24 01:00:03.464222
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-24 01:00:03.464222
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-24 01:00:03.464222
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-24 01:00:03.464222
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-24 01:00:03.464222
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-24 01:00:03.464222
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-24 01:00:03.464222
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-24 01:00:03.464222
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-24 01:00:03.464222
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-24 01:00:03.464222
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-24 01:00:03.464222
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-24 01:00:03.464222
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-24 01:00:03.464222
+32,UAB InMedica,,,,,,,,,,,33,2020-03-24 01:00:03.464222
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-24 01:00:03.464222
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-24 01:00:03.464222
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-24 01:00:03.464222
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-24 01:00:03.464222
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-24 01:00:03.464222
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-24 02:00:03.304186
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-24 02:00:03.304186
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-24 02:00:03.304186
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-24 02:00:03.304186
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-24 02:00:03.304186
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-24 02:00:03.304186
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-24 02:00:03.304186
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-24 02:00:03.304186
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-24 02:00:03.304186
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-24 02:00:03.304186
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-24 02:00:03.304186
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-24 02:00:03.304186
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-24 02:00:03.304186
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-24 02:00:03.304186
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-24 02:00:03.304186
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-24 02:00:03.304186
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-24 02:00:03.304186
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-24 02:00:03.304186
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-24 02:00:03.304186
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-24 02:00:03.304186
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-24 02:00:03.304186
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-24 02:00:03.304186
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-24 02:00:03.304186
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-24 02:00:03.304186
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-24 02:00:03.304186
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-24 02:00:03.304186
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-24 02:00:03.304186
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-24 02:00:03.304186
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-24 02:00:03.304186
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-24 02:00:03.304186
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-24 02:00:03.304186
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-24 02:00:03.304186
+32,UAB InMedica,,,,,,,,,,,33,2020-03-24 02:00:03.304186
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-24 02:00:03.304186
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-24 02:00:03.304186
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-24 02:00:03.304186
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-24 02:00:03.304186
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-24 02:00:03.304186
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-24 03:00:05.180562
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-24 03:00:05.180562
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-24 03:00:05.180562
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-24 03:00:05.180562
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-24 03:00:05.180562
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-24 03:00:05.180562
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-24 03:00:05.180562
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-24 03:00:05.180562
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-24 03:00:05.180562
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-24 03:00:05.180562
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-24 03:00:05.180562
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-24 03:00:05.180562
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-24 03:00:05.180562
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-24 03:00:05.180562
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-24 03:00:05.180562
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-24 03:00:05.180562
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-24 03:00:05.180562
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-24 03:00:05.180562
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-24 03:00:05.180562
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-24 03:00:05.180562
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-24 03:00:05.180562
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-24 03:00:05.180562
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-24 03:00:05.180562
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-24 03:00:05.180562
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-24 03:00:05.180562
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-24 03:00:05.180562
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-24 03:00:05.180562
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-24 03:00:05.180562
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-24 03:00:05.180562
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-24 03:00:05.180562
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-24 03:00:05.180562
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-24 03:00:05.180562
+32,UAB InMedica,,,,,,,,,,,33,2020-03-24 03:00:05.180562
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-24 03:00:05.180562
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-24 03:00:05.180562
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-24 03:00:05.180562
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-24 03:00:05.180562
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-24 03:00:05.180562
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-24 04:00:06.018897
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-24 04:00:06.018897
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-24 04:00:06.018897
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-24 04:00:06.018897
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-24 04:00:06.018897
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-24 04:00:06.018897
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-24 04:00:06.018897
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-24 04:00:06.018897
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-24 04:00:06.018897
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-24 04:00:06.018897
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-24 04:00:06.018897
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-24 04:00:06.018897
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-24 04:00:06.018897
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-24 04:00:06.018897
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-24 04:00:06.018897
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-24 04:00:06.018897
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-24 04:00:06.018897
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-24 04:00:06.018897
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-24 04:00:06.018897
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-24 04:00:06.018897
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-24 04:00:06.018897
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-24 04:00:06.018897
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-24 04:00:06.018897
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-24 04:00:06.018897
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-24 04:00:06.018897
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-24 04:00:06.018897
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-24 04:00:06.018897
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-24 04:00:06.018897
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-24 04:00:06.018897
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-24 04:00:06.018897
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-24 04:00:06.018897
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-24 04:00:06.018897
+32,UAB InMedica,,,,,,,,,,,33,2020-03-24 04:00:06.018897
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-24 04:00:06.018897
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-24 04:00:06.018897
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-24 04:00:06.018897
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-24 04:00:06.018897
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-24 04:00:06.018897
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-24 05:00:03.849468
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-24 05:00:03.849468
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-24 05:00:03.849468
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-24 05:00:03.849468
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-24 05:00:03.849468
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-24 05:00:03.849468
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-24 05:00:03.849468
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-24 05:00:03.849468
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-24 05:00:03.849468
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-24 05:00:03.849468
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-24 05:00:03.849468
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-24 05:00:03.849468
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-24 05:00:03.849468
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-24 05:00:03.849468
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-24 05:00:03.849468
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-24 05:00:03.849468
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-24 05:00:03.849468
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-24 05:00:03.849468
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-24 05:00:03.849468
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-24 05:00:03.849468
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-24 05:00:03.849468
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-24 05:00:03.849468
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-24 05:00:03.849468
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-24 05:00:03.849468
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-24 05:00:03.849468
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-24 05:00:03.849468
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-24 05:00:03.849468
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-24 05:00:03.849468
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-24 05:00:03.849468
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-24 05:00:03.849468
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-24 05:00:03.849468
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-24 05:00:03.849468
+32,UAB InMedica,,,,,,,,,,,33,2020-03-24 05:00:03.849468
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-24 05:00:03.849468
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-24 05:00:03.849468
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-24 05:00:03.849468
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-24 05:00:03.849468
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-24 05:00:03.849468
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-24 12:00:07.653071
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-24 12:00:07.653071
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-24 12:00:07.653071
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-24 12:00:07.653071
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-24 12:00:07.653071
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-24 12:00:07.653071
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-24 12:00:07.653071
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-24 12:00:07.653071
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-24 12:00:07.653071
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-24 12:00:07.653071
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-24 12:00:07.653071
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-24 12:00:07.653071
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-24 12:00:07.653071
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-24 12:00:07.653071
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-24 12:00:07.653071
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-24 12:00:07.653071
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-24 12:00:07.653071
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-24 12:00:07.653071
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-24 12:00:07.653071
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-24 12:00:07.653071
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-24 12:00:07.653071
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-24 12:00:07.653071
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-24 12:00:07.653071
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-24 12:00:07.653071
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-24 12:00:07.653071
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-24 12:00:07.653071
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-24 12:00:07.653071
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-24 12:00:07.653071
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-24 12:00:07.653071
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-24 12:00:07.653071
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-24 12:00:07.653071
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-24 12:00:07.653071
+32,UAB InMedica,,,,,,,,,,,33,2020-03-24 12:00:07.653071
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-24 12:00:07.653071
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-24 12:00:07.653071
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-24 12:00:07.653071
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-24 12:00:07.653071
+38,IĮ Stanaičių šeimos klinika,,,,,,,,,,,39,2020-03-24 12:00:07.653071
+39,VšĮVilniaus rajono centrinė poliklinika,,,,,,,,,,,40,2020-03-24 12:00:07.653071
+40,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,41,2020-03-24 12:00:07.653071
+41,VšĮ Pal. kunigo Mykolo Sopočkos hospisas,,,,,,,,,,,42,2020-03-24 12:00:07.653071
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-24 13:00:04.175295
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-24 13:00:04.175295
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-24 13:00:04.175295
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-24 13:00:04.175295
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-24 13:00:04.175295
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-24 13:00:04.175295
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-24 13:00:04.175295
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-24 13:00:04.175295
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-24 13:00:04.175295
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-24 13:00:04.175295
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-24 13:00:04.175295
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-24 13:00:04.175295
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-24 13:00:04.175295
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-24 13:00:04.175295
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-24 13:00:04.175295
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-24 13:00:04.175295
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-24 13:00:04.175295
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-24 13:00:04.175295
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-24 13:00:04.175295
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-24 13:00:04.175295
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-24 13:00:04.175295
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-24 13:00:04.175295
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-24 13:00:04.175295
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-24 13:00:04.175295
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-24 13:00:04.175295
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-24 13:00:04.175295
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-24 13:00:04.175295
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-24 13:00:04.175295
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-24 13:00:04.175295
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-24 13:00:04.175295
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-24 13:00:04.175295
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-24 13:00:04.175295
+32,UAB InMedica,,,,,,,,,,,33,2020-03-24 13:00:04.175295
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-24 13:00:04.175295
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-24 13:00:04.175295
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-24 13:00:04.175295
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-24 13:00:04.175295
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-24 13:00:04.175295
+38,IĮ Stanaičių šeimos klinika,,,,,,,,,,,39,2020-03-24 13:00:04.175295
+39,VšĮVilniaus rajono centrinė poliklinika,,,,,,,,,,,40,2020-03-24 13:00:04.175295
+40,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,41,2020-03-24 13:00:04.175295
+41,VšĮ Pal. kunigo Mykolo Sopočkos hospisas,,,,,,,,,,,42,2020-03-24 13:00:04.175295
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-24 14:00:07.415294
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-24 14:00:07.415294
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-24 14:00:07.415294
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-24 14:00:07.415294
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-24 14:00:07.415294
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-24 14:00:07.415294
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-24 14:00:07.415294
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-24 14:00:07.415294
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-24 14:00:07.415294
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-24 14:00:07.415294
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-24 14:00:07.415294
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-24 14:00:07.415294
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-24 14:00:07.415294
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-24 14:00:07.415294
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-24 14:00:07.415294
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-24 14:00:07.415294
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-24 14:00:07.415294
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-24 14:00:07.415294
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-24 14:00:07.415294
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-24 14:00:07.415294
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-24 14:00:07.415294
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-24 14:00:07.415294
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-24 14:00:07.415294
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-24 14:00:07.415294
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-24 14:00:07.415294
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-24 14:00:07.415294
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-24 14:00:07.415294
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-24 14:00:07.415294
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-24 14:00:07.415294
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-24 14:00:07.415294
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-24 14:00:07.415294
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-24 14:00:07.415294
+32,UAB InMedica,,,,,,,,,,,33,2020-03-24 14:00:07.415294
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-24 14:00:07.415294
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-24 14:00:07.415294
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-24 14:00:07.415294
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-24 14:00:07.415294
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-24 14:00:07.415294
+38,IĮ Stanaičių šeimos klinika,,,,,,,,,,,39,2020-03-24 14:00:07.415294
+39,VšĮVilniaus rajono centrinė poliklinika,,,,,,,,,,,40,2020-03-24 14:00:07.415294
+40,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,41,2020-03-24 14:00:07.415294
+41,VšĮ Pal. kunigo Mykolo Sopočkos hospisas,,,,,,,,,,,42,2020-03-24 14:00:07.415294
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-24 15:00:05.474890
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-24 15:00:05.474890
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-24 15:00:05.474890
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-24 15:00:05.474890
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-24 15:00:05.474890
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-24 15:00:05.474890
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-24 15:00:05.474890
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-24 15:00:05.474890
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-24 15:00:05.474890
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-24 15:00:05.474890
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-24 15:00:05.474890
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-24 15:00:05.474890
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-24 15:00:05.474890
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-24 15:00:05.474890
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-24 15:00:05.474890
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-24 15:00:05.474890
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-24 15:00:05.474890
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-24 15:00:05.474890
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-24 15:00:05.474890
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-24 15:00:05.474890
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-24 15:00:05.474890
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-24 15:00:05.474890
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-24 15:00:05.474890
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-24 15:00:05.474890
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-24 15:00:05.474890
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-24 15:00:05.474890
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-24 15:00:05.474890
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-24 15:00:05.474890
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-24 15:00:05.474890
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-24 15:00:05.474890
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-24 15:00:05.474890
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-24 15:00:05.474890
+32,UAB InMedica,,,,,,,,,,,33,2020-03-24 15:00:05.474890
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-24 15:00:05.474890
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-24 15:00:05.474890
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-24 15:00:05.474890
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-24 15:00:05.474890
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-24 15:00:05.474890
+38,IĮ Stanaičių šeimos klinika,,,,,,,,,,,39,2020-03-24 15:00:05.474890
+39,VšĮVilniaus rajono centrinė poliklinika,,,,,,,,,,,40,2020-03-24 15:00:05.474890
+40,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,41,2020-03-24 15:00:05.474890
+41,VšĮ Pal. kunigo Mykolo Sopočkos hospisas,,,,,,,,,,,42,2020-03-24 15:00:05.474890
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-24 16:00:07.040111
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-24 16:00:07.040111
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-24 16:00:07.040111
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-24 16:00:07.040111
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-24 16:00:07.040111
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-24 16:00:07.040111
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-24 16:00:07.040111
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-24 16:00:07.040111
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-24 16:00:07.040111
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-24 16:00:07.040111
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-24 16:00:07.040111
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-24 16:00:07.040111
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-24 16:00:07.040111
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-24 16:00:07.040111
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-24 16:00:07.040111
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-24 16:00:07.040111
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-24 16:00:07.040111
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-24 16:00:07.040111
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-24 16:00:07.040111
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-24 16:00:07.040111
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-24 16:00:07.040111
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-24 16:00:07.040111
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-24 16:00:07.040111
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-24 16:00:07.040111
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-24 16:00:07.040111
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-24 16:00:07.040111
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-24 16:00:07.040111
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-24 16:00:07.040111
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-24 16:00:07.040111
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-24 16:00:07.040111
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-24 16:00:07.040111
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-24 16:00:07.040111
+32,UAB InMedica,,,,,,,,,,,33,2020-03-24 16:00:07.040111
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-24 16:00:07.040111
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-24 16:00:07.040111
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-24 16:00:07.040111
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-24 16:00:07.040111
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-24 16:00:07.040111
+38,IĮ Stanaičių šeimos klinika,,,,,,,,,,,39,2020-03-24 16:00:07.040111
+39,VšĮVilniaus rajono centrinė poliklinika,,,,,,,,,,,40,2020-03-24 16:00:07.040111
+40,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,41,2020-03-24 16:00:07.040111
+41,VšĮ Pal. kunigo Mykolo Sopočkos hospisas,,,,,,,,,,,42,2020-03-24 16:00:07.040111
+0,VšĮ Vilkpėdės ligoninė,,,,,,,,,,,1,2020-03-24 17:00:05.517809
+1,VšĮ Mykolo Marcinkevičiaus ligoninė,,,,,,,,,,,2,2020-03-24 17:00:05.517809
+2,VšĮ Vilniaus miesto klinikinė ligoninė,,,,,,,,,,,3,2020-03-24 17:00:05.517809
+3,VšĮ Šv. Roko ligoninė,,,,,,,,,,,4,2020-03-24 17:00:05.517809
+4,VšĮ Antakalnio poliklinika,,,,,,,,,,,5,2020-03-24 17:00:05.517809
+5,VšĮ Karoliniškių poliklinika,,,,,,,,,,,6,2020-03-24 17:00:05.517809
+6,VšĮ Lazdynų poliklinika,,,,,,,,,,,7,2020-03-24 17:00:05.517809
+7,"VšĮ Centro poliklinika, Dienos stacionaras",,,,,,,,,,,8,2020-03-24 17:00:05.517809
+8,VšĮ Naujininkų poliklinika,,,,,,,,,,,9,2020-03-24 17:00:05.517809
+9,VšĮ Naujosios Vilnios poliklinika,,,,,,,,,,,10,2020-03-24 17:00:05.517809
+10,VšĮ Šeškinės poliklinika,,,,,,,,,,,11,2020-03-24 17:00:05.517809
+11,VšĮ Greitosios medicinos pagalbos stotis,,,,,,,,,,,12,2020-03-24 17:00:05.517809
+12,VšĮ Vilniaus miesto psichikos sveikatos centras,,,,,,,,,,,13,2020-03-24 17:00:05.517809
+13,VšĮ Grigiškių sveikatos priežiūros centras palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,14,2020-03-24 17:00:05.517809
+14,BĮ Vilniaus visuomenės sveikatos biuras,,,,,,,,,,,15,2020-03-24 17:00:05.517809
+15,BĮ Vilniaus sutrikusio vystymosi kūdikių namai-pagalbos centras „Šeimos slėnis“,,,,,,,,,,,16,2020-03-24 17:00:05.517809
+16,VšĮ Vilniaus universiteto ligoninė Santaros klinikos,,,,,,,,,,,17,2020-03-24 17:00:05.517809
+17,VšĮ Respublikinė Vilniaus universitetinė ligoninė,,,,,,,,,,,18,2020-03-24 17:00:05.517809
+18,VšĮ VUL Žalgirio klinika,,,,,,,,,,,19,2020-03-24 17:00:05.517809
+19,VšĮ Krikščionių medicinos centras,,,,,,,,,,,20,2020-03-24 17:00:05.517809
+20,UAB Saulėtekio klinika,,,,,,,,,,,21,2020-03-24 17:00:05.517809
+21,UAB Gemma sveikatos centras,,,,,,,,,,,22,2020-03-24 17:00:05.517809
+22,UAB Baltupių šeimos medicinos centras,,,,,,,,,,,23,2020-03-24 17:00:05.517809
+23,Šeimos gydymo klinika,,,,,,,,,,,24,2020-03-24 17:00:05.517809
+24,UAB Alicija ir partneriai",,,,,,,,,,,25,2020-03-24 17:00:05.517809
+25,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,26,2020-03-24 17:00:05.517809
+26,UAB Žvėryno klinika,,,,,,,,,,,27,2020-03-24 17:00:05.517809
+27,Všį Balsių šeimos medicinos centras,,,,,,,,,,,28,2020-03-24 17:00:05.517809
+28,Medicinos paslaugų centras,,,,,,,,,,,29,2020-03-24 17:00:05.517809
+29,Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras,,,,,,,,,,,30,2020-03-24 17:00:05.517809
+30,"Šeimos klinika, UAB",,,,,,,,,,,31,2020-03-24 17:00:05.517809
+31,"Sveikatos klinika (Vilniaus sveikatos namai, UAB)",,,,,,,,,,,32,2020-03-24 17:00:05.517809
+32,UAB InMedica,,,,,,,,,,,33,2020-03-24 17:00:05.517809
+33,UAB "Neuromeda',,,,,,,,,,,34,2020-03-24 17:00:05.517809
+34,VŠĮ Vilniaus rajono centrinė poliklinika,,,,,,,,,,,35,2020-03-24 17:00:05.517809
+35,I.Į.I.Kurcevič bendrosios praktikos gydytojo kabinetas,,,,,,,,,,,36,2020-03-24 17:00:05.517809
+36,BĮ Nacionalinis vėžio institutas,,,,,,,,,,,37,2020-03-24 17:00:05.517809
+37,UAB sveikatos centras Gilės,,,,,,,,,,,38,2020-03-24 17:00:05.517809
+38,IĮ Stanaičių šeimos klinika,,,,,,,,,,,39,2020-03-24 17:00:05.517809
+39,VšĮVilniaus rajono centrinė poliklinika,,,,,,,,,,,40,2020-03-24 17:00:05.517809
+40,VšĮ Justiniškių šeimos gydytojų kabinetas,,,,,,,,,,,41,2020-03-24 17:00:05.517809
+41,VšĮ Pal. kunigo Mykolo Sopočkos hospisas,,,,,,,,,,,42,2020-03-24 17:00:05.517809
