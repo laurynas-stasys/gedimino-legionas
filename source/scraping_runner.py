@@ -4,34 +4,27 @@ import pandas as pd
 import urllib.request
 from datetime import datetime
 from sqlalchemy import create_engine
+from pymongo import MongoClient
 
 
-def scrape_data(api_url, entity, db_host, username, password, db_id):
+def scrape_data(api_url, entity, db_id):
     """
 
     :param api_url:
     :param entity:
-    :param db_host:
-    :param username:
-    :param password:
     :param db_id:
     :return:
     """
     html = urllib.request.urlopen(api_url).read()
     data = json.loads(html)
 
-    current_time = datetime.now().__str__()
+    data = data['features']
 
-    df = pd.DataFrame.from_dict([_['attributes'] for _ in data['features']]).dropna(axis=1, how='all')
+    for ix in range(len(data)):
+        data[ix]['insert_timestamp'] = datetime.now().__str__()
 
-    df.columns = [_.lower().replace('_', '') for _ in df.columns]
-
-    df['insert_timestamp'] = current_time
-
-    conn_string = 'postgresql+psycopg2://{}:{}@{}:5432/{}'.format(username, password, db_host, db_id)
-
-    engine = create_engine(conn_string)
-    df.to_sql(entity, engine, if_exists='append')
+    entity_collection = MongoClient()[db_id][entity]
+    entity_collection.insert_many(data)
 
 
 def run_scraper(entity):
@@ -44,12 +37,9 @@ def run_scraper(entity):
         config = json.loads(in_str.read())
 
     db_info = config['db_info']
-    host = db_info['db_host']
-    username = db_info['username']
-    password = db_info['password']
     db = db_info['db']
 
-    scrape_data(config['api_urls'][entity], entity, host, username, password, db)
+    scrape_data(config['api_urls'][entity], entity, db)
 
 
 if __name__ == '__main__':
